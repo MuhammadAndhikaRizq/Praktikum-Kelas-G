@@ -22,7 +22,7 @@
 12. 11. ## = Finish yg dijaga oleh kaka yg meminta bayaran
  ========================================================
 ## Sinopsis :
-Seorang pelajar yang ketinggalan tasnya di rumah, dimana dia harus kembali ke rumah untuk mengambilnya 
+## Seorang pelajar yang ketinggalan tasnya di rumah, dimana dia harus kembali ke rumah untuk mengambilnya 
 Akan tetapi, ada beberapa rintangan yang harus di lalui. Karena rumahnya ini smarthome maka setiap ruangan memiliki codenya masing-masing maka dari itu player harus menemukan clue-clue code setiap ruangan untuk mencari item yang di cari yaitu sebuah tas
 Selain itu player akan berhadapan dengan anggota keluarga yang berada dirumah seperti ibu, kaka, dan adik 
 yg dimana ketika ketemu ibu player harus menjawab agar mendapatkan tambahan uang jajan selain dari uang yang di temukan di setiap ruangan, 
