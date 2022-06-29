@@ -27,7 +27,7 @@ Seorang pelajar yang ketinggalan tasnya di rumah, dimana dia harus kembali ke ru
 ## WIN & LOSE CONDITION
 1. LOSE : 
 	1. Ketika salah memasukan code ruangan sebanyak 3x
-      	2. Ketika jawaban salah dari quis yang di berikan ibu
+	2. Ketika jawaban salah dari quis yang di berikan ibu
 	3. Ketika Mencoba keluar tanpa membawa item yang di cari dan uang yang cukup untuk kaka
 2. WIN : Ketika berhasil keluar dengan memenuhi syarat uang dan item
 ## ==========================================
