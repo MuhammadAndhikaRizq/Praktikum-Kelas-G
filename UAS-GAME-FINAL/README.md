@@ -3,6 +3,9 @@
 # ==========================================
 # MYSTERY : FIND THE CODE
 # ==========================================
+# LINK YOUTUBE:
+# https://youtu.be/7fsAWu2kinc
+# ==========================================
 ## Rules & Info, Please Read Befor Play The Game
 1. R1 = Ruangan 1, Kamar Player
 2. R2 = Ruangan 2, Ruang Tamu
