@@ -3,7 +3,7 @@
 # ==========================================================
 # MYSTERY : FIND THE CODE
 # ==========================================================
-##Rules&Info, Please Read Befor Play The Game
+## Rules&Info, Please Read Befor Play The Game
 1. R1 = Ruangan 1, Kamar Player
 2. R2 = Ruangan 2, Ruang Tamu
 3. R3 = Ruangan 3, Ruang Kamar
@@ -20,8 +20,8 @@
 13. A+ = Adik
 11. @@ = Lokasi item berada
 12. 11. ## = Finish yg dijaga oleh kaka yg meminta bayaran
-========================================================
-#Sinopsis : \n";
+# ========================================================
+## Sinopsis :
 Seorang pelajar yang ketinggalan tasnya di rumah, dimana dia harus kembali ke rumah untuk mengambilnya 
 Akan tetapi, ada beberapa rintangan yang harus di lalui. Karena rumahnya ini smarthome maka setiap ruangan memiliki codenya masing-masing maka dari itu player harus menemukan clue-clue code setiap ruangan untuk mencari item yang di cari yaitu sebuah tas
 Selain itu player akan berhadapan dengan anggota keluarga yang berada dirumah seperti ibu, kaka, dan adik 
